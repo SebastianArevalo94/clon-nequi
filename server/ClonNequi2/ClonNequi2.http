@@ -1,0 +1,6 @@
+@ClonNequi2_HostAddress = http://localhost:5256
+
+GET {{ClonNequi2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClonNequi2", "ClonNequi2\ClonNequi2.csproj", "{DBE34F90-8155-47D4-9FAB-6749E98C119F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBE34F90-8155-47D4-9FAB-6749E98C119F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE34F90-8155-47D4-9FAB-6749E98C119F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE34F90-8155-47D4-9FAB-6749E98C119F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE34F90-8155-47D4-9FAB-6749E98C119F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {788C8540-F72C-4A94-8AE9-97660A41A23B}
+	EndGlobalSection
+EndGlobal
